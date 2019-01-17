@@ -15,7 +15,7 @@
         }
     </style>
 </head>
-<h1 style="margin-left: 17px">Registro Usuarios <span class="badge badge-secondary"></span></h1>
+<h1 style="margin-left: 17px">Registro Usuarios </h1>
 <body>
     <form>
         <div class="form-group">
@@ -58,4 +58,5 @@
         <button type="button" class="btn btn-success">Registrarse</button>
     </p>
 </body>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 </html>
